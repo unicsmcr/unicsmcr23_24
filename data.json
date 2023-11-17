@@ -1,0 +1,62 @@
+{
+    "1": {
+
+        "date": "28 October 2023",
+        "time": "12:00",
+        "title": "GUH 2023",
+        "type": "hackathon",
+        "img-photos": ["img1.png", "img2.png", "img3.png"],
+        "img-poster": "poster.png",
+        "link": "abc.123.com",
+        "location": [53.4708, 2.2403]
+    },
+
+    "2": {
+
+        "date": "29 October 2023",
+        "time": "13:00",
+        "title": "Interns Conference 2023",
+        "type": "conference",
+        "img-photos": ["img_a.png", "img_b.png", "img_c.png"],
+        "img-poster": "poster.png",
+        "link": "abc.123.com",
+        "location": [35.4708, 2.2403]
+    }, 
+
+    "3": {
+
+        "date": "30 October 2023",
+        "time": "14:00",
+        "title": "GUH 2023",
+        "type": "meetup",
+        "img-photos": ["img1.png", "img2.png", "img3.png"],
+        "img-poster": "poster.png",
+        "link": "abc.123.com",
+        "location": [53.4708, 22.2403]
+    }, 
+
+    "4": {
+
+        "date": "31 October 2023",
+        "time": "15:00",
+        "title": "Christmas Social 2023",
+        "type": "social",
+        "img-photos": ["img_a.png", "img_b.png", "img_c.png"],
+        "img-poster": "poster.png",
+        "link": "abc.123.com",
+        "location": [53.4708, 42.2403]
+    }, 
+
+    "5": {
+
+        "date": "1 November 2023",
+        "time": "16:00",
+        "title": "GUH 2023",
+        "type": "hackathon",
+        "img-photos": ["img1.png", "img2.png", "img3.png"],
+        "img-poster": "poster.png",
+        "link": "abc.123.com",
+        "location": [41.4708, 2.2403]
+    }
+
+}
